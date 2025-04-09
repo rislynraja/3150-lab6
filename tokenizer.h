@@ -8,7 +8,6 @@
 
 using namespace std;
 
-// map<string, int> doubles_read_vector(istream & in_stream);
 map<string, int> read_text_file(istream & in_stream); // reads text from a file, separates 
 
 int outputint(map<string, int>, string); // will output the numeric token associated with the string
